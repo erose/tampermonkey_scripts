@@ -9,8 +9,6 @@
 // @grant        none
 // ==/UserScript==
 
-/* Note your Firefox pulls directly from where this is hosted on github. */
-
 (function() {
     'use strict';
     
